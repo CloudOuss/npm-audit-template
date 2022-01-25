@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/CloudOuss/npm-audit-template#readme",
   "dependencies": {
-    "react-papaparse": "^3.18.1"
+    "react-papaparse": "^3.18.2"
   }
 }
